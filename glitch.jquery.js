@@ -8,7 +8,7 @@
     $.fn.glitch = function(options) {
         var s = $.extend({
             bg: null,    // background color
-            maxint: 6,     // max interval between glitchings
+            maxint: 4,     // max interval between glitchings
             minint: 2,      // min interval between glitchings
             maxglitch: 10,   // max number of twitches
             hshift: 10,      // max horizontal shift 

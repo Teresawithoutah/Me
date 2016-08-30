@@ -24,10 +24,7 @@ textarea {
   padding: 1em;
   color: black; }
 
-span.highlight {
-    background-color: rgba(248, 247, 216, 0.7);
-}
-
+    
 .button {
   -webkit-appearance: none;
   text-decoration: none;
@@ -179,6 +176,7 @@ span.highlight {
 
 .p2 {
   padding: 2em; }
+
 
 .pt2 {
   padding-top: 2em; }
@@ -659,4 +657,6 @@ span.highlight {
   text-indent: -9999px; }
 
 .opacity-0 {
-  opacity: 0; }
+  opacity: 0; 
+
+}
