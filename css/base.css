@@ -41,6 +41,8 @@ textarea {
     border:1px solid black;
     padding:0;
     height: 200px;
+    width: 500px;
+    display: inline-block;
 }
 .list-inline{
   white-space: nowrap;

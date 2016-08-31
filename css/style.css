@@ -28,18 +28,46 @@ html {
 #bio {
   background-color: #E86850; }
 
+#spoiled{
+  background-color: #fbdada;
+}
+
 #girls {
   background-color: blue; }
+
 
 #gwc {
   background-image: url("b22.jpg");
   background-size: 50% auto; }
 
-#or {
+#hack {
   background-color: #fff400; }
 
-#hack {
-  background-color: blue;
+#code {
+  background-color:#1C7F7F;
+}
+#iso{
+  background-color: #ff6700;
+}
+.DocumentList
+{
+    overflow-x:scroll;
+    overflow-y:hidden;
+    height:200px;
+    width:100%;
+    padding: 0 15px;
+}
+
+.DocumentItem
+{
+    border:1px solid black;
+    padding:0;
+    height: 200px;
+    width: 500px;
+    display: inline-block;
+}
+.list-inline{
+  white-space: nowrap;
 }
 
 
