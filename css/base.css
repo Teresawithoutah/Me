@@ -16,37 +16,14 @@ li {
 
 p {
   line-height: 1.5em;
-  margin-bottom: 1em; }
+  margin-bottom: 1em;
+ }
 
 input,
 textarea {
   border: none;
   padding: 1em;
   color: black; }
-
-
-
-
-.DocumentList
-{
-    overflow-x:scroll;
-    overflow-y:hidden;
-    height:200px;
-    width:100%;
-    padding: 0 15px;
-}
-
-.DocumentItem
-{
-    border:1px solid black;
-    padding:0;
-    height: 200px;
-    width: 500px;
-    display: inline-block;
-}
-.list-inline{
-  white-space: nowrap;
-}
 
 
 
