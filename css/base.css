@@ -29,6 +29,7 @@ textarea {
 
 
 
+
 .button {
   -webkit-appearance: none;
   text-decoration: none;
@@ -51,6 +52,7 @@ textarea {
 
 .no-padding {
   padding: 0; }
+
 
 /* Margins */
 .m1 {
@@ -664,3 +666,18 @@ textarea {
   opacity: 0; 
 
 }
+
+li.DocumentItem .contact {
+  position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+
+li.DocumentItem:hover .contact {
+    visibility: visible;
+    opacity: 1;
+}
+
+
