@@ -19,6 +19,10 @@ html {
   width: 80px;
   overflow: hidden; }
 
+.yeah{
+
+  background-color:#b2d5ff;
+}
 @media screen and (min-width: 670px) {
   .slide-container {
     padding-left: 60px; } }
@@ -61,7 +65,7 @@ html {
     overflow-y:hidden;
     max-width: 100%;
     max-height: 100%;
-  
+
 }
 /* controls size of each slide HEIGHT */
 .DocumentItem
@@ -143,4 +147,3 @@ a {
     transform: scale(1) rotate(270deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg); }
 
 \
-
